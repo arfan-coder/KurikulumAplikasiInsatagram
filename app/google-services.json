@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56633518645",
+    "firebase_url": "https://kurikulumaplikasiinstagram.firebaseio.com",
+    "project_id": "kurikulumaplikasiinstagram",
+    "storage_bucket": "kurikulumaplikasiinstagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56633518645:android:dad700350dd5af67ba9f7c",
+        "android_client_info": {
+          "package_name": "com.example.kurikulumaplikasiinsatagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56633518645-n57i36kte4e35s6a83696od93nisqksg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kurikulumaplikasiinsatagram",
+            "certificate_hash": "c6df3a8b6f06c6701b2da43ff5415b75d878bcc8"
+          }
+        },
+        {
+          "client_id": "56633518645-ov8e91elkevp6j0uvkgnr274pjul7fpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLXP7n5L4UJjaCa7cyiLkxa01cegkHeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56633518645-ov8e91elkevp6j0uvkgnr274pjul7fpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
